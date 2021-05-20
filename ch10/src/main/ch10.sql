@@ -10,3 +10,4 @@ create table member2(
 alter table member2 add(del char(1));
 select * from member2;
 update member2 set del='n';
+// ㅋ.ㅋ //
